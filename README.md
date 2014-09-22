@@ -12,8 +12,6 @@ To run the game, run the "Sidescroller Game" executable. This version works only
 Controls
 ========
 
-Keyboard:
-
 W - jump
 
 A - move left
